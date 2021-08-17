@@ -1,1 +1,1 @@
-## This is a zero day directory
+## This is a zero day directory. Thanks !
